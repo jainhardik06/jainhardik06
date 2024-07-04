@@ -1,3 +1,4 @@
+![logo](https://github.com/jainhardik06/jainhardik06/blob/main/Black%20Gradient%20Minimalist%20Corporate%20Business%20Personal%20Profile%20New%20LinkedIn%20Banner%20(8).png)
 <h1 align="center">Hello! I'm Hardik Jain</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
