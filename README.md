@@ -37,7 +37,7 @@
 </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/https://buymeacoffee.com/jainhardik06"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://buymeacoffee.com/jainhardik06" /></a></p><br><br>
+<p><a href="https://buymeacoffee.com/jainhardik06"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://buymeacoffee.com/jainhardik06" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jainhardik06&show_icons=true&locale=en&layout=compact" alt="jainhardik06" /></p>
 
