@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on :- [Breatho - helps your to sustain your campus](https://github.com/Arpitgarg07/Breatho-website)
 
 - 🌱 I’m currently learning :- **Blockchain Development**
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
 - 👨‍💻 All of my projects are available at :- [https://github.com/jainhardik06](https://github.com/jainhardik06)
 
